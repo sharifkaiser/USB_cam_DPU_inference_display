@@ -28,7 +28,7 @@ endif()
 message(STATUS "CMAKE_SYSROOT is ${CMAKE_SYSROOT}")
 include_directories("${CMAKE_CURRENT_SOURCE_DIR}/app/include" "${CMAKE_SYSROOT}/usr/include/drm/" "${CMAKE_CURRENT_SOURCE_DIR}/myV4L2/include")
 add_definitions()
-add_executable(usb_input_multi_threads_refinedet_drm ${CMAKE_CURRENT_SOURCE_DIR}/app/test/usb_input_multi_threads_refinedet.cpp
+add_executable(usb_input_multi_threads_refinedet_drm ${CMAKE_CURRENT_SOURCE_DIR}/app/test/usb_input_multi_threads_tfssd.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/app/src/decodethread.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/app/src/dputhread.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/app/src/guithread.cpp
@@ -36,9 +36,9 @@ add_executable(usb_input_multi_threads_refinedet_drm ${CMAKE_CURRENT_SOURCE_DIR}
     ${CMAKE_CURRENT_SOURCE_DIR}/app/src/mythread.cpp
 
 )
-target_link_libraries(usb_input_multi_threads_refinedet_drm ${OpenCV}
+target_link_libraries(usb_input_multi_threads_tfssd ${OpenCV}
  my_v4l2s
-vitis_ai_library-refinedet
+vitis_ai_library-tfssd
 vitis_ai_library-model_config
 json-c
 glog
