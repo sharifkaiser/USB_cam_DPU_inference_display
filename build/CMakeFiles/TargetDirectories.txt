@@ -1,0 +1,15 @@
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/build/CMakeFiles/install/strip.dir
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/build/CMakeFiles/install/local.dir
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/build/CMakeFiles/edit_cache.dir
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/build/CMakeFiles/usb_input_multi_threads_refinedet_drm.dir
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/build/CMakeFiles/rebuild_cache.dir
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/build/CMakeFiles/list_install_components.dir
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/build/CMakeFiles/install.dir
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/build/myV4L2/CMakeFiles/install/strip.dir
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/build/myV4L2/CMakeFiles/install/local.dir
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/build/myV4L2/CMakeFiles/test_v4l2.dir
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/build/myV4L2/CMakeFiles/rebuild_cache.dir
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/build/myV4L2/CMakeFiles/my_v4l2s.dir
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/build/myV4L2/CMakeFiles/install.dir
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/build/myV4L2/CMakeFiles/list_install_components.dir
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/build/myV4L2/CMakeFiles/edit_cache.dir

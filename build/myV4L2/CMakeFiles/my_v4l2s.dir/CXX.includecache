@@ -1,0 +1,118 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../myV4L2/include/V4l2Access.hpp
+V4l2Device.hpp
+../myV4L2/include/V4l2Device.hpp
+
+../myV4L2/include/V4l2Capture.hpp
+V4l2Access.hpp
+../myV4L2/include/V4l2Access.hpp
+opencv2/core/core.hpp
+../myV4L2/include/opencv2/core/core.hpp
+vector
+-
+
+../myV4L2/include/V4l2Device.hpp
+string
+-
+list
+-
+linux/videodev2.h
+-
+fcntl.h
+-
+
+../myV4L2/include/V4l2MmapDevice.hpp
+V4l2Device.hpp
+../myV4L2/include/V4l2Device.hpp
+
+../myV4L2/include/V4l2Output.hpp
+V4l2Access.hpp
+../myV4L2/include/V4l2Access.hpp
+
+../myV4L2/include/V4l2ReadWriteDevice.hpp
+V4l2Device.hpp
+../myV4L2/include/V4l2Device.hpp
+
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2Access.cpp
+V4l2Access.hpp
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2Access.hpp
+
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2Capture.cpp
+linux/videodev2.h
+-
+glog/logging.h
+-
+V4l2Capture.hpp
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2Capture.hpp
+V4l2MmapDevice.hpp
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2MmapDevice.hpp
+V4l2ReadWriteDevice.hpp
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2ReadWriteDevice.hpp
+opencv2/opencv.hpp
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/opencv2/opencv.hpp
+
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2Device.cpp
+unistd.h
+-
+errno.h
+-
+string.h
+-
+sys/ioctl.h
+-
+sys/stat.h
+-
+linux/videodev2.h
+-
+glog/logging.h
+-
+V4l2Device.hpp
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2Device.hpp
+
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2MmapDevice.cpp
+string.h
+-
+fcntl.h
+-
+stdio.h
+-
+errno.h
+-
+sys/mman.h
+-
+sys/ioctl.h
+-
+linux/videodev2.h
+-
+glog/logging.h
+-
+V4l2MmapDevice.hpp
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2MmapDevice.hpp
+
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2Output.cpp
+string.h
+-
+linux/videodev2.h
+-
+glog/logging.h
+-
+V4l2Output.hpp
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2Output.hpp
+V4l2MmapDevice.hpp
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2MmapDevice.hpp
+V4l2ReadWriteDevice.hpp
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2ReadWriteDevice.hpp
+
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2ReadWriteDevice.cpp
+unistd.h
+-
+V4l2ReadWriteDevice.hpp
+/media/avt/UbuntuExt/xilinx platforms/Vitis_AI_ML_tutorials/Vitis-AI-Tutorials/Introduction/03-Basic/Module_6/myV4L2/src/V4l2ReadWriteDevice.hpp
+
